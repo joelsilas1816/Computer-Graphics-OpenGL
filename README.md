@@ -11,10 +11,8 @@
 ## 📌Projects implemented in Computer Graphics :
 1. Car Locomotion (using the graphics library in C++)
 
-![image](https://user-images.githubusercontent.com/67523178/163669372-26168589-60de-4a60-bb90-b0bf01fa814d.png)
+![Untitled](https://user-images.githubusercontent.com/67523178/163669426-23c289d6-dd10-4669-bf53-a04dd7dc85a7.png)
 
-3. Depiction of sunrise and sunset using OpenGL
+2. Depiction of sunrise and sunset using OpenGL
 
-![image](https://user-images.githubusercontent.com/67523178/163669302-f9211abc-88d4-4e92-bdb9-47b583c5776d.png)
-
-
+![Untitled](https://user-images.githubusercontent.com/67523178/163669449-bb1daa8b-37a6-4607-a77d-0f485b2a8866.png)
